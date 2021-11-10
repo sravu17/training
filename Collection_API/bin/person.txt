@@ -1,0 +1,3 @@
+name = sravani;
+age = 24;
+place = hyderabad;
